@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/P2_.dir/P2/Complex.cc.o CMakeFiles/P2_.dir/P2/fft2d.cc.o CMakeFiles/P2_.dir/P2/InputImage.cc.o  -o P2_ 
